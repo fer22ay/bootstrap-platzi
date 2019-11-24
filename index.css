@@ -32,6 +32,11 @@
 	z-index: 1;
 }
 
+#place-time {
+	background-color: #343a40;
+	color: white;
+}
+
 #place-time img {
 
 	max-width: 100%;
